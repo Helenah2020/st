@@ -4,4 +4,4 @@ The st (simple terminal) Terminal Emulator from Suckless Tools, with a few of th
 The patches applied are:
 * No bold colours
 * Solarized Dark
-* Scrollback
+* Scrollback (Not Working)
